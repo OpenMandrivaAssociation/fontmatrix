@@ -10,6 +10,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:  qt4-devel
 BuildRequires:  freetype2
 BuildRequires:  desktop-file-utils
+BuildRequires:  cmake
 
 %description
 fontmatrix is a manager built with the kind of features and abilities graphic

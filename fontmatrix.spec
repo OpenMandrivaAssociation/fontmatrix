@@ -52,3 +52,12 @@ rm -rf %{buildroot}
 %{_iconsdir}/hicolor/*/apps/fontmatrix.png
 %dir %{_datadir}/fontmatrix
 %{_datadir}/fontmatrix/*
+
+
+%changelog
+* Sun Aug 01 2010 Florent Monnier <blue_prawn@mandriva.org> 0.6.0-1mdv2011.0
++ Revision: 564854
+- BuildRequires: cmake
+- import fontmatrix
+
+

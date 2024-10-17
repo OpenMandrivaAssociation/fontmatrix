@@ -4,7 +4,7 @@ Release:        %mkrel 1
 Summary:        featureful personal font manager
 License:        GPL
 Group:          Office
-URL:            http://fontmatrix.net/
+URL:            https://fontmatrix.net/
 Source0:        http://fontmatrix.net/archives/fontmatrix-%{version}-Source.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:  qt4-devel

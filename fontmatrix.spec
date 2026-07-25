@@ -1,6 +1,6 @@
 Name:           fontmatrix
 Version:        0.6.0
-Release:        %mkrel 1        
+Release:        2
 Summary:        featureful personal font manager
 License:        GPL
 Group:          Office
